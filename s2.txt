@@ -1,5 +1,0 @@
-
-my token
-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
-
-git remote set-url origin https://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@github.com/saadmakandar/wiproAssignments
