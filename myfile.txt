@@ -1,0 +1,6 @@
+filename="myfile.txt"
+if [ -e "$filename" ]; then
+	echo "File Exists"
+else
+	echo "File not found"
+fi
